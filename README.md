@@ -1,4 +1,5 @@
 # alphaBlending
-Add transparency to picture
+Add transparency to an image
+
 
 ![alpha](/alphaBlending.PNG)
